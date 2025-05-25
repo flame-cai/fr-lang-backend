@@ -7,6 +7,7 @@ A Google Cloud Run backend service for a French language learning application th
 - **Conversation Companion**: AI-powered French conversation practice with weekly curriculum
 - **Vocab Vault**: Word meaning review 
 - **Grammar Games**: Interactive grammar games with a scoring system
+- **Paragraph Parler**: Paragraph reading practice with audio playback
 - **Speech Recognition**: Audio transcription and pronunciation checking using OpenAI Whisper
 - **Progress Tracking**: User progress tracking and analytics
 
